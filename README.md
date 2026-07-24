@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Naveen</h1>
+<h1 align="center">
+  <span style="color:#58A6FF;">Hi! I'm Naveen 👋</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=400&lines=Computer+Science+Student;Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=350&lines=Computer+Science+Student;Coder" alt="Typing SVG" />
 </p>
 
-# 💫 About Me
+# About Me
 
 💻 Computer Science student who loves building projects and exploring new technologies.
 
