@@ -33,19 +33,18 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=navinkum0007-commits&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=navinkum0007-commits&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navinkum0007-commits&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navinkum0007-commits&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinkum0007-commits&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=navinkum0007-commits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navinkum0007-commits&theme=react-dark)](https://github.com/navinkum0007-commits)
 
 ---
 
