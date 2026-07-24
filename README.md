@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3B82F6,100:60A5FA&text=Hi!%20I'm%20Naveen%20👋&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=350&lines=Student;Building+Cool+Things+%3A);Tech+%E2%80%A2+Code+%E2%80%A2+Coffee+%E2%99%A1" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Hi!%20I'm%20Naveen%20👋&fontSize=36&color=0:3B82F6,100:93C5FD&fontColor=ffffff"/>
 </p>
 
 <p align="center">
