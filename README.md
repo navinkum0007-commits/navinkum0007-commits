@@ -17,27 +17,35 @@
 - 🤝 Open to learning, collaborating, and exploring new ideas
 - ☕ Coffee + Code = Happiness
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=navinkum0007&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=navinkum0007-commits&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=navinkum0007&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=navinkum0007-commits&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navinkum0007&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navinkum0007-commits&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=navinkum0007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=navinkum0007-commits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
@@ -49,12 +57,12 @@
 
 ## 🌟 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=navinkum0007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=navinkum0007-commits&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
 <p align="center">
 
-> *"Stay curious. Keep building."* 🚀
+> from 𝒩𝒶𝓋ℯℯ𝓃
 
 </p>
