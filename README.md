@@ -1,67 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:3B82F6,100:60A5FA&text=Hi!%20I'm%20Naveen&fontColor=ffffff&fontSize=36&fontAlignY=40&animation=fadeIn" />
+  <a href="https://github.com/navinkum007-commits">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Naveen" alt="Hello! I&#39;m Naveen" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=340&lines=Student;Building+Cool+Things+%3A);Tech%2C+Code%2C+Coffee+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Student%2Fcoder%20%3A);Tech%2C%20code%2C%20coffee%3C3" alt="Typing headlines" />
 </p>
 
-# About Me
+### 🚀 About Me
 
-💻 Computer Science student who loves building projects and exploring new technologies.
+🔭 &nbsp;I'm currently working on **Computer science student**  
+🌱 &nbsp;I'm currently learning **Currently learning python**  
+👯 &nbsp;I'm looking to collaborate on **Always aiming to improve my coding skills**  
+💬 &nbsp;Ask me about **Curious about Artificial intelligence, Machine learning &amp; Software development**  
+😄 &nbsp;Pronouns: **He/him**  
+⚡ &nbsp;Fun fact: **I code for Fun**
 
-- 🌱 Learning something new every day
-- 🚀 Turning ideas into real projects
-- 💡 Curious about Artificial Intelligence, Machine Learning & Software Development
-- 🎯 Always aiming to improve my coding skills
-- 🤝 Open to learning, collaborating, and exploring new ideas
-- ☕ Coffee + Code = Happiness
+### 🛠️ Tech Stack
 
-## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navinkum0007-commits&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinkum0007-commits&layout=compact&theme=radical"/>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=navinkum007-commits&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=navinkum007-commits&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navinkum0007-commits&theme=react-dark)](https://github.com/navinkum0007-commits)
-
----
-
-## ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🌟 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=navinkum0007-commits&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
+### 📈 Contribution Graph
 
 <p align="center">
-
-> from 𝒩𝒶𝓋ℯℯ𝓃
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=navinkum007-commits&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/navinkum007-commits">navinkum007-commits</a></i></p>
