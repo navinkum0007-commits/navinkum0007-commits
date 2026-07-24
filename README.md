@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Hi!%20I'm%20Naveen%20👋&fontSize=36&color=0:3B82F6,100:93C5FD&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:3B82F6,100:60A5FA&text=Hi!%20I'm%20Naveen&fontColor=ffffff&fontSize=36&fontAlignY=40&animation=fadeIn" />
 </p>
 
 <p align="center">
